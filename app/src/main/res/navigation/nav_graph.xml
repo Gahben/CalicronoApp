@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/navigation_week">
+
+    <fragment
+        android:id="@+id/navigation_week"
+        android:name="com.calicrono.app.WeekFragment"
+        android:label="Semana" />
+    <fragment
+        android:id="@+id/navigation_trainings"
+        android:name="com.calicrono.app.TrainingsFragment"
+        android:label="Treinos" />
+    <fragment
+        android:id="@+id/navigation_mobility"
+        android:name="com.calicrono.app.MobilityFragment"
+        android:label="Mobilidade" />
+    <fragment
+        android:id="@+id/navigation_dance"
+        android:name="com.calicrono.app.DanceFragment"
+        android:label="Dança" />
+    <fragment
+        android:id="@+id/navigation_nutrition"
+        android:name="com.calicrono.app.NutritionFragment"
+        android:label="Alimentação" />
+    <fragment
+        android:id="@+id/navigation_philosophy"
+        android:name="com.calicrono.app.PhilosophyFragment"
+        android:label="Filosofia" />
+
+</navigation>
