@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_week"
+        android:icon="@android:drawable/ic_menu_week"
+        android:title="@string/tab_week" />
+    <item
+        android:id="@+id/navigation_trainings"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="@string/tab_trainings" />
+    <item
+        android:id="@+id/navigation_mobility"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:title="@string/tab_mobility" />
+    <item
+        android:id="@+id/navigation_dance"
+        android:icon="@android:drawable/ic_menu_gallery"
+        android:title="@string/tab_dance" />
+    <item
+        android:id="@+id/navigation_nutrition"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="@string/tab_nutrition" />
+    <item
+        android:id="@+id/navigation_philosophy"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:title="@string/tab_philosophy" />
+</menu>
