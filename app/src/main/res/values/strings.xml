@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calicrono</string>
+    <string name="tab_week">Semana</string>
+    <string name="tab_trainings">Treinos</string>
+    <string name="tab_mobility">Mobilidade</string>
+    <string name="tab_dance">Dança</string>
+    <string name="tab_nutrition">Alimentação</string>
+    <string name="tab_philosophy">Filosofia</string>
+</resources>
